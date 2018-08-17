@@ -462,7 +462,6 @@ section {
     -ms-transition: all 200ms linear;
     transition: all 200ms linear;
 	height:160px;
-	background:#FF4F4F;
 }
 .fixed-title:hover:after {
 	height:0;
