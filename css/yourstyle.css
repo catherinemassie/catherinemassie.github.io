@@ -17,6 +17,10 @@ a {
 .show-share {
 	display: none;
 }
+
+.background-video {
+  display: none;
+}
 }
 
 /** Old color: #FF4F4F **/
