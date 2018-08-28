@@ -13,21 +13,14 @@ a {
   background: #FBC1AE;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
-
-.background-video {
-  width: 100%;
-}
-}
-
 @media only screen and  (max-width: 540px) {
 .show-share {
 	display: none;
 }
 
-.background-video {
+/* .background-video {
   width: 100%;
-}
+}*/
 }
 
 /** Old color: #FF4F4F **/
