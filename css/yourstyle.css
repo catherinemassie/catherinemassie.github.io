@@ -13,18 +13,13 @@ a {
   background: #FBC1AE;
 }
 
-@media only screen and (max-width: 300px) {
-  .mob-bg {
-    display:none;
-  }
-}
 @media only screen and  (max-width: 540px) {
 /*.show-share {
 	display: none;
   }*/
 
   .mob-bg {
-  	display:none;
+  	display:block;
   }
 
 
