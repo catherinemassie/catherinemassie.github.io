@@ -14,17 +14,12 @@ a {
 }
 
 @media only screen and  (max-width: 540px) {
-/*.show-share {
+.show-share {
 	display: none;
-  }*/
-
-/*.mob-bg {
-  	display:block;
-  }*/
-
+}
 
 .background-video {
-  width: 100%;
+  width: 100%
 }
 }
 
