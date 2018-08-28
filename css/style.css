@@ -2968,6 +2968,7 @@ article .btn {
 }
 /*------  Responsive ------------------------------------------------------*/
 @media only screen and  (max-width: 1036px) {
+
 .mob-bg {
 	display:block;
 }
